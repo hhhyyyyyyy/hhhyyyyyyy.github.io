@@ -4,7 +4,7 @@
     "subtitle": "얼굴로 보는 인공지능 아이돌/배우상 테스트",
     "footerText": "&copy; 태영테크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/FgauoPNN7/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/PTLZTcBOnk/",
     "classDetails": [
         {
             "name": "아이돌상",
@@ -16,7 +16,8 @@
         {
             "name": "배우상",
             "title": "배우상",
-            "explain": "풍부한 감정과 매력적인 외모를 가진 배우상! 다양한 역할을 완벽하게 소화할 수 있을 것 같은 이미지로, 스크린과 무대에서 주목받을 만한 인물이에요. 깊이 있는 눈빛과 섬세한 표정으로 감정을 전달하며, 다재다능한 모습으로 모두의 관심을 끄는 당신은 진정한 배우상이랍니다!게 항상 신뢰와 안정감을 주는 당신은 말과 닮았다!
+            "explain": "풍부한 감정과 매력적인 외모를 가진 배우상! 다양한 역할을 완벽하게 소화할 수 있을 것 같은 이미지로, 스크린과 무대에서 주목받을 만한 인물이에요. 깊이 있는 눈빛과 섬세한 표정으로 감정을 전달하며, 다재다능한 모습으로 모두의 관심을 끄는 당신은 진정한 배우상이랍니다!"
+            "celeb": "",
             "color": "rgba(251, 176, 59, 1)"
         },
    
