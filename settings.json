@@ -7,7 +7,7 @@
     "modelUrl": "https://teachablemachine.withgoogle.com/models/PTLZTcBOnk/",
     "classDetails": [
         {
-            "name": "아이돌",
+            "name": "아이돌상",
             "title": "아이돌상",
             "explain": "눈에 띄는 외모와 다재다능함으로 주목받는 아이돌상! 밝고 긍정적인 에너지로 언제 어디서나 사랑받는 이미지예요. 예쁜 얼굴, 날씬한 몸매, 맑은 피부는 기본이고, 다양한 분야에서 재능을 발휘하며 주목받는 당신은 진정한 아이돌상이랍니다!",
             "celeb": "",
